@@ -63,7 +63,7 @@ body {
 }
 
 h3 {
-    padding-top: 15px;
+    padding-top: 30px;
     padding-bottom: 15px;
 }
 
@@ -78,9 +78,74 @@ h3 {
     font-size: 10px;
 }
 
+.cross {
+    color: rgb(255, 0, 0);
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    border-color: rgb(255, 0, 0);
+    border-style: solid;
+    padding: 1px;
+    font-size: 10px;
+}
+
 .editorial {
     color: rgb(255, 255, 255);
     background-color: rgb(70, 171, 234);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.q1goals {
+    color: rgb(255, 255, 255);
+    background-color: rgb(156, 114, 228);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.recruiting {
+    color: rgb(255, 255, 255);
+    background-color: rgb(100, 192, 169);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.mobile {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 158, 51);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.website {
+    color: rgb(255, 255, 255);
+    background-color: rgb(216, 99, 161);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.sales {
+    color: rgb(255, 255, 255);
+    background-color: rgb(177, 201, 37);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
+}
+
+.editorial-2 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 158, 51);
     border-radius: 35%;
     font-weight: bold;
     font-size: 8px;
