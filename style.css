@@ -11,11 +11,7 @@ body {
     font-family: arial;
 }
 
-
-
- /* utilies */
-
- /* header */
+/* header */
  #logo {
     width: 40px;
     vertical-align: middle;
@@ -35,7 +31,7 @@ body {
    /* central section */
 #button-section {
     width: 700px;
-    margin: 20px auto;
+    margin: 20px auto 0 auto;
     padding: 7px 20px;
     border-radius: 5px 5px 0 0;
     background-color: white;
@@ -55,4 +51,38 @@ body {
 #white-button {
     background-color: white;
     color: gray;
+}
+
+/* main section */
+#main {
+    width: 700px;
+    margin: 2px auto;
+    padding: 7px 20px;
+    border-radius: 0 0 5px 5px;
+    background-color: white;
+}
+
+h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.checkmark {
+    color: rgb(136, 195, 134);
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+    border-color: rgb(136, 195, 134);
+    border-style: solid;
+    padding: 1px;
+    font-size: 10px;
+}
+
+.editorial {
+    color: rgb(255, 255, 255);
+    background-color: rgb(70, 171, 234);
+    border-radius: 35%;
+    font-weight: bold;
+    font-size: 8px;
+    padding: 4px;
 }
