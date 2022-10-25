@@ -4,3 +4,30 @@
     padding: 0;
     box-sizing: border-box;
  }
+
+ /* generics */
+body {
+    background-color: rgb(222, 219, 219);
+    font-family: arial;
+}
+
+
+
+ /* utilies */
+
+ /* header */
+ #logo {
+    width: 40px;
+    vertical-align: middle;
+ }
+
+ h1 {
+    display: inline;
+    vertical-align: middle;
+    font-weight: bolder;
+ }
+
+ #logo-title {
+    background-color: white;
+    padding: 10px 15px;
+   }
