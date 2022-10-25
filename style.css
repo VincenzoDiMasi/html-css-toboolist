@@ -64,13 +64,17 @@ body {
 
 h3 {
     padding-top: 30px;
-    padding-bottom: 15px;
+    padding-bottom: 10px;
+}
+
+p {
+    padding-top: 20px;
 }
 
 .checkmark {
     color: rgb(136, 195, 134);
-    height: 50%;
-    width: 50%;
+    height: 15px;
+    width: 15px;
     border-radius: 50%;
     border-color: rgb(136, 195, 134);
     border-style: solid;
@@ -80,8 +84,8 @@ h3 {
 
 .cross {
     color: rgb(255, 0, 0);
-    height: 50%;
-    width: 50%;
+    height: 15px;
+    width: 15px;
     border-radius: 50%;
     border-color: rgb(255, 0, 0);
     border-style: solid;
