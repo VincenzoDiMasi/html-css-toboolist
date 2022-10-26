@@ -62,13 +62,10 @@ body {
     background-color: white;
 }
 
-h3 {
-    padding-top: 30px;
-    padding-bottom: 10px;
-}
 
-p {
+ul,li {
     padding-top: 20px;
+    list-style: none;
 }
 
 .checkmark {
@@ -77,19 +74,25 @@ p {
     width: 15px;
     border-radius: 50%;
     border-color: rgb(136, 195, 134);
-    border-style: solid;
-    padding: 1px;
+    border: 1px solid currentColor;
+    vertical-align: middle;
+    line-height: 15px;
+    text-align: center;
+    display: inline-block;
     font-size: 10px;
 }
 
 .cross {
-    color: rgb(255, 0, 0);
+    color: red;
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    border-color: rgb(255, 0, 0);
-    border-style: solid;
-    padding: 1px;
+    border-color: red;
+    border: 1px solid currentColor;
+    vertical-align: middle;
+    line-height: 15px;
+    text-align: center;
+    display: inline-block;
     font-size: 10px;
 }
 
