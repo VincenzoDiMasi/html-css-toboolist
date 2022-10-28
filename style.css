@@ -100,62 +100,62 @@ ul,li {
 .editorial {
     color: rgb(255, 255, 255);
     background-color: rgb(70, 171, 234);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .q1goals {
     color: rgb(255, 255, 255);
     background-color: rgb(156, 114, 228);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .recruiting {
     color: rgb(255, 255, 255);
     background-color: rgb(100, 192, 169);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .mobile {
     color: rgb(255, 255, 255);
     background-color: rgb(242, 158, 51);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .website {
     color: rgb(255, 255, 255);
     background-color: rgb(216, 99, 161);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .sales {
     color: rgb(255, 255, 255);
     background-color: rgb(177, 201, 37);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
 
 .editorial-2 {
     color: rgb(255, 255, 255);
     background-color: rgb(242, 158, 51);
-    border-radius: 35%;
-    font-weight: bold;
-    font-size: 8px;
-    padding: 4px;
+    border-radius: 10px;
+    vertical-align: middle;
+    font-size: 10px;
+    padding: 5px 10px;
 }
